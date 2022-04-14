@@ -18,6 +18,7 @@ Our project uses Face Recognition technology to monitor the vehicle continuously
 ## Techstack used
 
 Arduino uno : To act as the processing hub for the code.
+
 Opencv library in python : To find and calculate the facial symptoms of sleepiness
 
 ## Supporting screenshots
